@@ -1,7 +1,7 @@
 NFTプロジェクトのAllowListに入力したウォレットアドレスが含まれているかチェックできるツール
 
 ## Demo
-![demo](https://github.com/sharky-hoodies/nft-allow-list-checker/assets/24955202/e07799f1-ec05-46b1-a0ad-9334a9d67e01)
+![demo](https://github.com/sharky-hoodies/nft-allow-list-checker_gas/assets/24955202/2978350d-3379-459f-9091-94e6e0344d6c)
 
 ## Setup
 1. スプレッドシートにAllowList一覧を作成する（全体文字列検索なので、形式に指定なし）
